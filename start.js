@@ -1,6 +1,6 @@
-console.log('Hello! World');
-console.log('!')
+console.log("Zakładam czape na łeb");
+console.log("Zakładam czape na czambuł");
 
-function subtrack(a, b) {
-    return a - b;
+function subtrack(czape) {
+  return `Zakładam ${czape} na sklep`;
 }
